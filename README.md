@@ -297,7 +297,7 @@ p.note { display: none; }
 <h2><span class="yellow">画面を南に振ると、メーチャン近郊の山々のシルエット</span></h2>
 <a href="20260131_053.JPG" target="_blank"><img src="20260131_053.JPG" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">田んぼの休憩の木の上にお月様が浮かびました</span></h2>
+<h2><span class="yellow">田んぼの休憩の木の上にお月様が浮かびました(ピンボケ)</span></h2>
 <a href="20260131_054.JPG" target="_blank"><img src="20260131_054.JPG" alt="サンプル画像" class="responsive-media"></a>
 
 <h2><span class="yellow">国道から見えた西の空の夕焼けが綺麗</span></h2>
